@@ -1,0 +1,6 @@
+{
+  "name": "Apex Racer",
+  "description": "High-octane retro-arcade car racing game with fast-paced tracks, nitro boosts, rivals to overtake, dynamic weather, car garage customization, and career upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
